@@ -22,6 +22,8 @@ The system realizes the functions of login, password retrieval and registration,
 
 ## File structure
 
+
+~~~
 │  .gitignore
 │  servlet.iml
 │
@@ -88,3 +90,4 @@ The system realizes the functions of login, password retrieval and registration,
                 jasper.jar
                 jstl-1.2.jar
                 mysql-connector-j-8.4.0.jar
+~~~
